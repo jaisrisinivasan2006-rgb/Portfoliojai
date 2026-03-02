@@ -2,10 +2,10 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import Ecommerce from "../../Assets/Projects/Ecommerce.png";
-import reactnative from "../../Assets/Projects/reactnative.jpg";
-import summtext from "../../Assets/Projects/summtext.jpeg"
-import chatify from "../../Assets/Projects/chatify.png";
+import Ecommerce from "../../assets/Projects/Ecommerce.png";
+import reactnative from "../../assets/Projects/reactnative.jpg";
+import summtext from "../../assets/Projects/summtext.jpeg"
+import chatify from "../../assets/Projects/chatify.png";
 
 
 
